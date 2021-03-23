@@ -17,13 +17,6 @@ _or using Homebrew (MacOs)_
 brew install node
 ```
 
-[React](https://es.reactjs.org)
-[Create React App](https://es.reactjs.org/docs/create-a-new-react-app.html#create-react-app)
-
-```
-npx create-react-app my-app
-```
-
 ## How to run 📦
 
 ```
@@ -40,5 +33,6 @@ _you can access to a live demo in this [link](https://nicola-react-training.netl
 * [TypeScript](https://www.typescriptlang.org) - for logic
 * [SCSS](https://sass-lang.com/guide) - preprocessor for styles
 * [React](https://es.reactjs.org) - JavaScript Framework
+* [Create React App](https://es.reactjs.org/docs/create-a-new-react-app.html#create-react-app) - for react app creation
 
 ⌨️ con ❤️ por [Nicola Di Candia](https://github.com/iamalexandro) 😊
