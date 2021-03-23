@@ -1,0 +1,50 @@
+.eui-card-flex-container {
+  background-color: white;
+  max-width: 940px;
+  height: auto;
+  overflow: hidden;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.eui-card {
+  width: 48vw;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.news__cards {
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.05), 0 2px 4px 0 rgba(0, 0, 0, 0.04);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.05), 0 2px 4px 0 rgba(0, 0, 0, 0.04);
+  margin-bottom: 23px;
+}
+
+.news__title {
+  margin-top: 0;
+  margin-bottom: 34px;
+}
+
+.news__button {
+  max-width: 171px !important;
+  margin: auto !important;
+}
+
+.news__button-btn {
+  color: white;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  box-sizing: border-box;
+  height: 40px;
+  width: 171px;
+  border: 1px solid #0073e9;
+  border-radius: 2px;
+  background-color: #0073e9;
+}
+
+.news__card-img {
+  width: 100%;
+  margin-bottom: 11px;
+  height: 212px;
+  background-size: cover;
+}
+/*# sourceMappingURL=News.css.map */

@@ -1,0 +1,20 @@
+.eui-btn-styles {
+  padding-right: 0 !important;
+}
+
+@media (min-width: 1200px) {
+  .eui-navbar-bar {
+    width: 100%;
+    max-width: 940px;
+    padding: 0 !important;
+  }
+  .eui-navbar {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+/*# sourceMappingURL=Navbar.css.map */
