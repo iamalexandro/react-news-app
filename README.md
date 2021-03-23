@@ -10,17 +10,18 @@ _These instructions will help you compile the project and deploy it_
 
 _What things do you need to install, and how to install them_
 
-[nodejs](https://nodejs.org/es/download/)
+[NodeJs](https://nodejs.org/es/download/)
 
 _or using Homebrew (MacOs)_
 ```
 brew install node
 ```
 
-[react](https://es.reactjs.org)
+[React](https://es.reactjs.org)
+[Create React App](https://es.reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
 ```
-npm install -g @angular/cli
+npx create-react-app my-app
 ```
 
 ## How to run 📦
