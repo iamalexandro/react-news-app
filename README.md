@@ -30,8 +30,8 @@ _you can access to a live demo in this [link](https://nicola-react-training.netl
 ## Build with 🛠️
 
 * [HTML5](https://developer.mozilla.org/es/docs/Web/HTML) - for structure
-* [TypeScript](https://www.typescriptlang.org) - for logic
-* [SCSS](https://sass-lang.com/guide) - preprocessor for styles
+* [JSX](https://es.reactjs.org/docs/introducing-jsx.html) - for logic
+* [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - for styles
 * [React](https://es.reactjs.org) - JavaScript Framework
 * [Create React App](https://es.reactjs.org/docs/create-a-new-react-app.html#create-react-app) - for react app creation
 
