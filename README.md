@@ -2,6 +2,11 @@
 
 _This project was created to training at Condor Labs as a Frontend Developer_
 
+
+## Demo 👀
+
+_you can access to a live demo in this [link](https://react-nico-news.netlify.app/)_
+
 ## Getting Started 🚀
 
 _These instructions will help you compile the project and deploy it_
@@ -22,10 +27,6 @@ brew install node
 ```
 npm run start
 ```
-
-## Demo 👀
-
-_you can access to a live demo in this [link](https://nicola-react-training.netlify.app/)_
 
 ## Build with 🛠️
 
